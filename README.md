@@ -44,7 +44,7 @@ The platform also allows users to directly contact attorneys for consultations, 
 
 ## 👨‍💻 About Me
 
-Hello! I’m **Sajid Jamil**, an experienced **Brilliant Directory developer**. I specialize in creating tailored directory solutions like the **Bankruptcy Law Network**, which streamlines the process of connecting professionals with clients. This project exemplifies my expertise in directory customization, lead generation, and responsive design.
+Hello! I’m **Bilal Jamil**, an experienced **Brilliant Directory developer**. I specialize in creating tailored directory solutions like the **Bankruptcy Law Network**, which streamlines the process of connecting professionals with clients. This project exemplifies my expertise in directory customization, lead generation, and responsive design.
 
 Are you looking to build or enhance a directory platform? **Let’s collaborate** to bring your project to life with advanced features and an intuitive user experience.
 
